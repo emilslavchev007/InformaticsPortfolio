@@ -1,0 +1,107 @@
+ body {
+    background-color: rgb(32,53,84); 
+    font-family: "Oswald", sans-serif;
+}
+
+h1 {
+    margin-top: 20px;
+    float: right;
+    padding-right: 20px;
+    background-color: rgb(255,1,100);
+    color: white;
+  
+}
+
+div #Links td{
+  text-align: center;
+  padding-top: 5px;
+  background-color: rgb(213,224,254);
+}
+
+#Links table{
+    border-color: rgb(213,224,254);
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 10%;
+}
+
+#Links a{
+    color: rgb(32,53,84);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+#Links a:hover{
+  color:rgb(255,1,100);
+  }
+  
+img{
+     float:left;
+     size: 1em;
+ }
+ 
+ #title1{
+     color: rgb(213,224,254);
+     text-align: center;
+     margin-left: 50%;
+ }
+ 
+ .about{
+     color: rgb(213,224,254);
+     text-align: center;
+     margin-left: 50%;
+     width: 50%;
+     height: 13em;
+     overflow-y: auto;
+     
+ }
+
+  #half1{
+      float: left;
+      background-color:white;
+      width: 47%;
+    height: 15em;
+    overflow-y: auto;
+    border-style: outset;
+    border-width: 5px;
+    border-color: rgb(213,224,254);
+  }  
+    .it{
+    color: rgb(32, 54, 83);
+    padding:5px;
+   
+}
+
+#it-title{
+    color: rgb(255,1,100);
+    font-weight: bold;
+
+}
+#half2{
+      float: right;
+      background-color:white;
+      width: 47%;
+    height: 15em;
+    overflow-y: auto;
+     border-style: outset;
+    border-width: 5px;
+     border-color: rgb(213,224,254);
+  }  
+  
+#thanks-title{
+    color: rgb(255,1,100);
+    font-weight: bold;
+}
+
+.thanks{
+    
+    color: rgb(32, 54, 83);
+    background-color:white;
+}
+
+#Footer{
+    margin-top: 55%;
+    background-color: rgb(255,1,100);
+    color: white;
+}
